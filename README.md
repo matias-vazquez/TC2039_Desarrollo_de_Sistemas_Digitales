@@ -1,3 +1,7 @@
+<div align="right">
+<img src="img/teclogo.png">
+</div>
+
 # TC2039 - Desarrollo de Sistemas Digitales
 ## Contenidos de aprendizaje
 1. Dispositivos lógicos programables y memorias
