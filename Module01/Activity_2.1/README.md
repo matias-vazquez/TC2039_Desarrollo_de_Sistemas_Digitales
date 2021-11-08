@@ -8,12 +8,21 @@
 ## Contents
 
 ## [1. Quartus Prime 21.1 Lite Installation](#1-quartus-prime-211-lite-installation-1)
+### [1.1 Background](#background-1)
+### [1.2 Installation](#installation-1)
 ## [2. New Project Wizard](#2-new-project-wizard-1)
+### [2.1 Navigation of Quartus Prime Lite](#21-summary-1)
+### [2.1 Navigation of Quartus Prime Lite](#navigation-of-quartus-prime-lite-1)
+### [2.2 New Project Wizard](#new-project-wizard-1)
 ## [3. Switch to LED](#3-switch-to-led-1)
+### [3.1 Summary](#31-summary-1)
+### [3.2 Creating a New File](#32-creating-a-new-file-1)
+### [3.3 Adding Verilog Code](#33-adding-verilog-code-1)
+### [3.4 Assigning Pins](#34-assigning-pins-1)
 
 ## 1. Quartus Prime 21.1 Lite Installation
 
-### Background
+### 1.1 Background
 A field-programmable gate array, or FPGA, is a digital semiconductor that can be used to build a wide variety of electronic functions. These data center accelerators, wireless base stations and industrial motor controllers to name but a few common applications. This is because FPGAs can be infinitely reconfigured to perform different digital hardware functions, which also makes for an
 excellent learning platform.
 
@@ -21,7 +30,7 @@ To configure an FPGA, first you describe your digital electronics with either a 
 
 This training class assumes you have some prerequisite knowledge of how computers and digital electronics work, but by no means do you need an electrical engineering degree to follow along this introductory course.
 
-### Installation
+### 1.2 Installation
 
 Go to the [Intel FPGA software download site](https://fpgasoftware.intel.com/?edition=lite). Make sure to select Lite edition, version 21.1, and your corresponding Operating System (only available for Windows and Linux).
 
@@ -81,9 +90,11 @@ Once installation is complete, a Ready-to-use notification window must show that
 
 
 ## 2. New Project Wizard
+
+### 2.1 Summary
 This is a short lab that completes the basic project setup. At the end of this lab, you will be able to start a new project using New Project Wizard in Quartus Prime Software. There are other related tutorial links provided for you to learn more about the software.
 
-### Navigation of Quartus Prime Lite
+### 2.2 Navigation of Quartus Prime Lite
 The first time you open Quartus Prime, a software licensing window will ask on acquiring a license. Select the Run the Quartus Prime software option, as shown below, and click Ok. After this, the main window will be shown. 
 
 The Quartus Prime main window is composed of the following sections:
@@ -96,7 +107,7 @@ design flow
 * __IP Catalog__ window is open by default and is used to generate IP functions that are to be
 used in your design.
 
-### New Project Wizard
+### 2.3 New Project Wizard
 In the main toolbar of Quartus, navigate to the File drop down menu and New Project Wizard.
 
 <div align="center">
