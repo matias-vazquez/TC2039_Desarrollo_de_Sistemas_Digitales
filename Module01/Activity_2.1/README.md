@@ -5,6 +5,12 @@
 # TC2039 - Desarrollo de Sistemas Digitales
 ## Actividad 2.1 - Introducción y características de VHDL
 
+## Contents
+
+## [1. Quartus Prime 21.1 Lite Installation](Activity_2.1#1-quartus-prime-211-lite-installation)
+## [2. New Project Wizard](Activity_2.1#2-new-project-wizard)
+## [1. Quartus Prime 21.1 Lite Installation](Activity_2.1#3-switch-to-led)
+
 ## 1. Quartus Prime 21.1 Lite Installation
 
 ### Background
