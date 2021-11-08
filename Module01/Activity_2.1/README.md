@@ -7,18 +7,28 @@
 
 ## Contents
 
-## [1. Quartus Prime 21.1 Lite Installation](#1-quartus-prime-211-lite-installation-1)
-### [1.1 Background](#background-1)
-### [1.2 Installation](#installation-1)
-## [2. New Project Wizard](#2-new-project-wizard-1)
-### [2.1 Navigation of Quartus Prime Lite](#21-summary-1)
-### [2.1 Navigation of Quartus Prime Lite](#navigation-of-quartus-prime-lite-1)
-### [2.2 New Project Wizard](#new-project-wizard-1)
-## [3. Switch to LED](#3-switch-to-led-1)
-### [3.1 Summary](#31-summary-1)
-### [3.2 Creating a New File](#32-creating-a-new-file-1)
-### [3.3 Adding Verilog Code](#33-adding-verilog-code-1)
-### [3.4 Assigning Pins](#34-assigning-pins-1)
+1. [Quartus Prime 21.1 Lite Installation](#1-quartus-prime-211-lite-installation-1)
+
+    1.1 [Background](#background-1)
+
+    1.2 [Installation](#installation-1)
+    
+2. [New Project Wizard](#2-new-project-wizard-1)
+    
+    2.1 [Navigation of Quartus Prime Lite](#21-summary-1)
+
+    2.2 [Navigation of Quartus Prime Lite](#navigation-of-quartus-prime-lite-1)
+
+    2.3 [New Project Wizard](#new-project-wizard-1)
+3. [Switch to LED](#3-switch-to-led-1)
+
+    3.1 [Summary](#31-summary-1)
+
+    3.2 [Creating a New File](#32-creating-a-new-file-1)
+
+    3.3 [Adding Verilog Code](#33-adding-verilog-code-1)
+
+    3.4 [Assigning Pins](#34-assigning-pins-1)
 
 ## 1. Quartus Prime 21.1 Lite Installation
 
