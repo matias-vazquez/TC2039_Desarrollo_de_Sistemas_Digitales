@@ -8,8 +8,8 @@
 ## Contents
 
 ## [1. Quartus Prime 21.1 Lite Installation](#1-quartus-prime-211-lite-installation-1)
-## [2. New Project Wizard](https://github.com/matias-vazquez/TC2039_Desarrollo_de_Sistemas_Digitales/tree/main/Module01/Activity_2.1#2-new-project-wizard)
-## [3. Switch to LED](https://github.com/matias-vazquez/TC2039_Desarrollo_de_Sistemas_Digitales/tree/main/Module01/Activity_2.1#3-switch-to-led)
+## [2. New Project Wizard](#2-new-project-wizard-1)
+## [3. Switch to LED](#3-switch-to-led-1)
 
 ## 1. Quartus Prime 21.1 Lite Installation
 
